@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://littlehand.herokuapp.com/"
+  status = 200
